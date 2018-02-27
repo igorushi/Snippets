@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Media;
 using System.Windows.Shapes;
 
-namespace EVA.Application.Controls
+namespace Controls
 {
     public class ProgressPath : Shape
     {
